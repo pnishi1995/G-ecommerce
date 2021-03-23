@@ -1,0 +1,112 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "ido": 1,
+            "titlee": "json-server",
+            "authorr": "typicode"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "ido": 1,
+            "titlee": "json-server",
+            "authorr": "typicode"
+        }
+    ],
+    "profile": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "ido": 1,
+            "titlee": "json-server",
+            "authorr": "typicode"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "ido": 1,
+            "titlee": "json-server",
+            "authorr": "typicode"
+        }
+    ],
+    "subcategories": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "ido": 1,
+            "titlee": "json-server",
+            "authorr": "typicode"
+        }
+    ],
+    "subsubcategories": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "ido": 1,
+            "titlee": "json-server",
+            "authorr": "typicode"
+        }
+    ],
+    "product": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "ido": 1,
+            "titlee": "json-server",
+            "authorr": "typicode"
+        }
+    ],
+    "cart": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "ido": 1,
+            "titlee": "json-server",
+            "authorr": "typicode"
+        }
+    ],
+    "checkout": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "ido": 1,
+            "titlee": "json-server",
+            "authorr": "typicode"
+        }
+    ],
+    "home": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "ido": 1,
+            "titlee": "json-server",
+            "authorr": "typicode"
+        }
+    ],
+    "some": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "ido": 1,
+            "titlee": "json-server",
+            "authorr": "typicode"
+        }
+    ]
+}
